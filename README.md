@@ -2,3 +2,9 @@
   <img src="github/logo-light.png#gh-light-mode-only" alt="Longporn">
   <img src="github/logo-dark.png#gh-dark-mode-only" alt="Longporn">
 </p>
+
+<p align="center">
+A theme for Windows 96 based on Windows Longhorn.
+</p>
+
+**Longporn** is a theme for [Windows 96](https://windows96.net)
