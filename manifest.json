@@ -4,7 +4,7 @@
 	"description": "Longhorn Build 4074 theme for Windows 96.",
 	"author": "trabis",
 	"themeType": "normal",
-	"iconTheme": "W:/system/resource/icons/base",
+	"iconTheme": "C:/system/resource/themes/longporn/icons",
 	"soundPack": "C:/system/resource/themes/longporn/sounds",
 	"stylesheets": [
 		"./theme.css",
