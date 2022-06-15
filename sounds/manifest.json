@@ -1,0 +1,14 @@
+{
+	"meta": {
+		"name": "Longporn Sounds",
+		"author": "By yours truly, trabis"
+	},
+	"sounds": {
+		"error": "C:/system/resource/themes/longporn/sounds/error.mp3",
+		"question": "C:/system/resource/themes/longporn/sounds/ding.mp3",
+		"asterisk": "C:/system/resource/themes/longporn/sounds/ding.mp3",
+		"start": "C:/system/resource/themes/longporn/sounds/start.mp3",
+		"shutdown": "C:/system/resource/themes/longporn/sounds/shutdown.mp3",
+        "navigate": "C:/system/resource/themes/longporn/sounds/nav.mp3"
+	}
+}

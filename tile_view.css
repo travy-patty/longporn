@@ -1,0 +1,30 @@
+.wexplorer-app .exp-file-view .shell-icon {
+    flex-direction: row !important;
+    position: unset !important;
+    top: unset !important;
+    height: 45px;
+	align-items: center;
+    left: unset !important;
+	width: 198px;
+	padding-left: 2px;
+}
+
+.wexplorer-app .exp-file-view {
+    flex-wrap: wrap;
+    display: inline-block;
+    align-content: stretch;
+}
+
+.wexplorer-app .exp-file-view .shell-icon .icon-image {
+    width: 32px;
+    height: 32px;
+    min-width: 32px;
+    margin: 0;
+}
+
+.wexplorer-app .exp-file-view:not(.user-desktop) .icon-text {
+    margin: 0;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}

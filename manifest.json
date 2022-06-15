@@ -1,0 +1,37 @@
+{
+	"id": "longporn",
+	"name": "Longporn",
+	"description": "Longhorn Build 4074 theme for Windows 96.",
+	"author": "trabis",
+	"themeType": "normal",
+	"iconTheme": "W:/system/resource/icons/base",
+	"soundPack": "C:/system/resource/themes/longporn/sounds",
+	"stylesheets": [
+		"./theme.css",
+        "./taskbar.css"
+	],
+    "scripts": [
+		"./theme.js"
+	],
+    "resourceMap": [
+        { "id": "TITLEBARBUTTONS", "path": "./windows/slatebuttons.png" },
+        { "id": "TASKBARBG", "path": "./taskbar/taskbar_bg.png" },
+        { "id": "START", "path": "./taskbar/start_btn.png" },
+        { "id": "TRAYBG", "path": "./taskbar/tray_bg.png" },
+        { "id": "TRAYBGBEFORE", "path": "./taskbar/tray_bg_before.png" },
+        { "id": "EXPLORERBACK", "path": "./explorer/back.png" },
+        { "id": "EXPLORERBACKHOVER", "path": "./explorer/back_hover.png" },
+        { "id": "EXPLORERBACKACTIVE", "path": "./explorer/back_active.png" },
+        { "id": "EXPLORERBACKDISABLED", "path": "./explorer/back_disabled.png" },
+        { "id": "EXPLORERFORWARD", "path": "./explorer/forward.png" },
+        { "id": "EXPLORERFORWARDHOVER", "path": "./explorer/forward_hover.png" },
+        { "id": "EXPLORERFORWARDACTIVE", "path": "./explorer/forward_active.png" },
+        { "id": "EXPLORERFORWARDDISABLED", "path": "./explorer/forward_disabled.png" },
+        { "id": "ABOUTUI", "path": "./apps/about-ui.png" },
+        { "id": "STARTHEADER", "path": "./startmenu/header.png" },
+        { "id": "STARTHEADERLEFT", "path": "./startmenu/header-left.png" },
+        { "id": "STARTHEADERRIGHT", "path": "./startmenu/header-right.png" },
+        { "id": "STARTPFP", "path": "./startmenu/pfp.png" },
+        { "id": "MONITOR", "path": "./apps/monitor.png" }
+    ]
+}
